@@ -4,11 +4,11 @@ Official distribution files for AGIS applications.
 
 ## AGIS Android
 
-[Download the latest AGIS Android APK](https://github.com/agis-dchanga/agis-downloads/releases/latest/download/AGIS-Android.apk)
+[Download the latest AGIS Android APK](https://github.com/agis-jupiter/agis-downloads/releases/latest/download/AGIS-Android.apk)
 
 Scan this QR code on an Android device to download the current release:
 
-![AGIS Android download QR code](https://github.com/agis-dchanga/agis-downloads/releases/latest/download/AGIS-Android-QR.png)
+![AGIS Android download QR code](https://github.com/agis-jupiter/agis-downloads/releases/latest/download/AGIS-Android-QR.png)
 
 Current release:
 
