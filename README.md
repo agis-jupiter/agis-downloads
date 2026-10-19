@@ -12,11 +12,11 @@ Scan this QR code on an Android device to download the current release:
 
 Current release:
 
-- Version: 8.00011 RL
-- Version code: 20
+- Version: 8.00021 RL
+- Version code: 800021
 - Package: `com.agis.android.apps.lifering`
-- Minimum Android version: Android 5.0 (API 21)
-- APK SHA-256: `ca0da4ff91b782926d8f60e94052e4636d323ba6dd0ff02c9eaa498ab9bec3ce`
+- Minimum Android version: Android 11 (API 30)
+- APK SHA-256: `423661cc127874c82611fb95952393af68ef9106dc93c49614dddf3d4c417e12`
 
 ### Installation
 
